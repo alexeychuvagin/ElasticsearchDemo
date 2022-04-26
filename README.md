@@ -1,0 +1,2 @@
+# ElasticsearchDemo
+Playground for Elasticsearch
